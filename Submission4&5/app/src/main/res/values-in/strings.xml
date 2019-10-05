@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_movies">Film</string>
+    <string name="title_tvShow">Acara Tv</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="msg_insert_succeed">Data berhasil ditambah</string>
+    <string name="msg_insert_failed">Gagal</string>
+    <string name="appwidget_text">Film Favorit</string>
+    <string name="empty_text">Tidak ada Data</string>
+    <string name="release_reminder">Pengingat Rilis</string>
+    <string name="reminder_showing_the_movie_that_released_today">Pengingat menunjukkan film yang dirilis hari ini</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="reminder_for_return_to_app">Pengingat untuk kembali ke aplikasi</string>
+
+</resources>

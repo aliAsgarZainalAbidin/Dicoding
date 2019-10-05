@@ -1,0 +1,25 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="CustomSearchView" parent="@style/Widget.AppCompat.SearchView.ActionBar">
+        <item name="android:layout_gravity">end</item>
+    </style>
+
+    <style name="CustomText" parent="@style/TextAppearance.AppCompat">
+        <item name="android:textColor">@color/colorPrimaryText</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    
+    <style name="CustomText.Small" parent="CustomText">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="CustomText.Grey" parent="CustomText">
+        <item name="android:textColor">@color/colorSecundaryText</item>
+    </style>
+</resources>

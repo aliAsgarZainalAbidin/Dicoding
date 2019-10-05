@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="title">
+        <item>Avengers: Infinity War</item>
+        <item>Deadpool</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bird Box</item>
+        <item>Venom</item>
+        <item>Creed II</item>
+        <item>Bumblebee</item>
+        <item>Aquaman</item>
+        <item>Robin Hood</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+    </string-array>
+
+    <string-array name="titleTv">
+        <item>The Flash</item>
+        <item>Hanna</item>
+        <item>Supernatural</item>
+        <item>Supergirl</item>
+        <item>Naruto Shipudden</item>
+        <item>Iron Fist</item>
+        <item>Gotham</item>
+        <item>Fairytail</item>
+        <item>Dragon Ball</item>
+        <item>Doom Patrol</item>
+    </string-array>
+
+    <string-array name="descTv">
+        <item>Setelah akselerator partikel menyebabkan badai yang aneh, penyelidik CSI Barry Allen dipukul oleh petir dan jatuh ke dalam koma. Berbulan-bulan kemudian ia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya gembira dengan kekuatan barunya, Barry terkejut menemukan dia bukan satu-satunya  "meta-manusia " yang diciptakan dalam bangun dari ledakan akselerator dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Labs dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan tahu bahwa Barry secara harfiah adalah orang tercepat hidup, tetapi tidak akan lama sebelum dunia belajar apa yang Barry Allen telah menjadi.. The Flash.</item>
+        <item>Ini film thriller dan coming-of-age Drama berikut perjalanan seorang gadis muda yang luar biasa saat ia menghindari pengejaran tanpa henti dari buku off-agen CIA dan mencoba untuk menggali kebenaran di balik siapa dia. Berdasarkan pada 2011 film Joe Wright.</item>
+        <item>Ketika mereka masih bocah, Sam dan Dean Winchester kehilangan ibu mereka dengan kekuatan supranatural yang misterius dan jahat. Selanjutnya, ayah mereka membesarkan mereka untuk menjadi tentara. Dia mengajari mereka tentang Paranormal yang jahat yang hidup di sudut gelap dan di jalan belakang Amerika dan ia mengajari mereka bagaimana untuk membunuhnya. Sekarang, Winchester bersaudara menyilang negara itu dalam \'67 Chevy Impala, memerangi setiap jenis ancaman supranatural yang mereka hadapi di sepanjang jalan.</item>
+        <item>Kara zor-El yang berusia dua puluh empat tahun, yang diambil oleh keluarga Danvers ketika dia berusia 13 setelah dikirim menjauh dari Krypton, harus belajar untuk merangkul kekuatannya setelah sebelumnya menyembunyikannya. Para Danvers mengajarinya untuk berhati-hati dengan kekuatannya, sampai dia harus mengungkapkan mereka selama bencana yang tak terduga, menetapkan dia dalam perjalanannya kepahlawanan.</item>
+        <item>Naruto Shippuuden adalah kelanjutan dari serial TV animasi asli Naruto. The cerita berkisar sekitar yang lebih tua dan sedikit lebih matang Uzumaki Naruto dan usahanya untuk menyelamatkan temannya Uchiha Sasuke dari cengkeraman ular-seperti shinobi, Orochimaru. Setelah 2 setengah tahun Naruto akhirnya kembali ke desa Konoha, dan set tentang menempatkan ambisinya untuk bekerja, meskipun tidak akan mudah, karena ia telah mengumpulkan beberapa musuh (lebih berbahaya), di orang-orang seperti shinobi organisasi; Akatsuki.</item>
+        <item>Danny Rand bertahan 15 tahun setelah diduga tewas. Sekarang, dengan kekuatan dari Iron Fist, ia berusaha untuk merebut kembali masa lalunya dan memenuhi takdirnya.</item>
+        <item>Sebelum ada batman, ada GOTHAM. Semua orang tahu nama Komisaris Gordon. Dia adalah salah satu musuh terbesar dunia kejahatan, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui kisah Gordon dan bangkit dari detektif rookie ke Komisaris Polisi? Apa yang diperlukan untuk menavigasi beberapa lapisan korupsi yang diam-diam memerintah Gotham City, tanah pemijahan penjahat paling ikonik di dunia? Dan apa keadaan menciptakan mereka-yang lebih besar dari kehidupan Personas yang akan menjadi Catwoman, The penguin, The Riddler, dua-Face dan The Joker?</item>
+        <item>Lucy adalah seorang gadis berusia 17 tahun, yang ingin menjadi penyihir penuh. Suatu hari ketika mengunjungi kota Harujion, dia bertemu Natsu, seorang pemuda yang sakit dengan mudah oleh semua jenis transportasi. Tapi Natsu bukan sembarang anak biasa, dia adalah anggota dari salah satu Guild penyihir paling terkenal di dunia: Fairy Tail.</item>
+        <item>Dahulu kala di pegunungan, seorang pejuang yang dikenal sebagai Gohan menemukan seorang bocah aneh yang ia namai Goku. Gohan mengangkat Goku dalam seni bela diri sampai ia meninggal. Anak muda dan sangat kuat itu sendiri, tetapi mudah dikelola. Kemudian pada suatu hari, Goku bertemu seorang gadis remaja bernama Bulma, yang mencari bola naga membawanya ke rumah Goku. Bersama-sama, mereka berangkat untuk menemukan ketujuh bola naga dalam sebuah petualangan.</item>
+        <item>The Doom Patrol anggota masing-masing menderita kecelakaan mengerikan yang memberi mereka kemampuan super manusia-tetapi juga meninggalkan mereka bekas luka dan Cacat. Trauma dan tertindas, tim menemukan tujuan melalui The Chief, yang membawa mereka bersama-sama untuk menyelidiki fenomena yang paling aneh yang ada-dan untuk melindungi bumi dari apa yang mereka temukan.</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Sebagai Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk satu pahlawan untuk menangani, bahaya baru telah muncul dari bayangan kosmis: Thanos. Sebuah despot intergalaksi kehinaan, tujuannya adalah untuk mengumpulkan semua enam batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan twisted nya akan pada semua kenyataan. Segala sesuatu yang Avengers telah berjuang untuk telah menyebabkan saat ini-nasib bumi dan keberadaan itu sendiri tidak pernah lebih pasti.</item>
+        <item>Wisecracking tentara bayaran Deadpool pertempuran yang jahat dan Cable yang kuat dan orang jahat lainnya untuk menyelamatkan nyawa seorang anak.</item>
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon mengambil dunia musik oleh badai ketika mereka membentuk Rock \' n \' roll band Queen di 1970. Lagu hit menjadi klasik instan. Ketika gaya hidup Merkurius semakin liar mulai spiral di luar kendali, Ratu segera menghadapi tantangan terbesar belum-menemukan cara untuk menjaga band bersama-sama di tengah keberhasilan dan kelebihan.</item>
+        <item>Lima tahun setelah kehadiran tak terlihat tidak menyenangkan drive sebagian besar masyarakat untuk bunuh diri, seorang korban dan kedua anaknya membuat tawaran putus asa untuk mencapai keselamatan.</item>
+        <item>Wartawan investigasi Eddie Brock mencoba comeback setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, kekerasan, symbiote alien Super kuat. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi gelap mencari simbisit mereka sendiri.</item>
+        <item>Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan dengan ikatan dengan masa lalu keluarganya, Adonis Creed adalah melawan tantangan hidupnya.</item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan tempat berlindung di tempat barang rongsokan di sebuah kota pantai California kecil. Charlie, pada titik puncak dari berbalik 18 dan mencoba untuk menemukan tempatnya di dunia, menemukan Bumblebee, pertempuran-scarred dan patah. Ketika Charlie menghidupkan kembali dia, ia dengan cepat mengetahui bahwa ini bukanlah bug VW kuning biasa.</item>
+        <item>Pernah menjadi rumah bagi peradaban paling maju di bumi, Atlantis sekarang adalah sebuah kerajaan bawah laut yang dikuasai oleh raja ORM yang haus kekuasaan. Dengan tentara yang luas di pembuangan, ORM berencana untuk menaklukkan sisa orang Samudera dan kemudian dunia permukaan. Berdiri di jalan adalah Arthur Curry, ORM setengah manusia, setengah-Atlantean saudara dan pewaris sejati takhta.</item>
+        <item>Seorang Crusader yang mengeras perang dan komandan Moor-nya melakukan pemberontakan yang berani melawan mahkota Inggris yang korup.</item>
+        <item>Miles Morales menyulap hidupnya antara menjadi siswa SMA dan menjadi Spider-Man. Ketika Wilson  "Kingpin " Fisk menggunakan Super Collider, yang lain dari seluruh Spider-Verse diangkut ke dimensi ini.</item>
+
+    </string-array>
+
+    <array name="photoTv">
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_hanna</item>
+        <item>@drawable/poster_supernatural</item>
+        <item>@drawable/poster_supergirl</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+        <item>@drawable/poster_iron_fist</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_doom_patrol</item>
+    </array>
+
+    <array name="bgTv">
+        <item>@drawable/bg_flash</item>
+        <item>@drawable/bg_hanna</item>
+        <item>@drawable/bg_supernatural</item>
+        <item>@drawable/bg_supergirl</item>
+        <item>@drawable/bg_naruto</item>
+        <item>@drawable/bg_iron</item>
+        <item>@drawable/bg_gotham</item>
+        <item>@drawable/bg_fairy</item>
+        <item>@drawable/bg_dragon</item>
+        <item>@drawable/bg_doom</item>
+    </array>
+
+    <array name="photo">
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+    </array>
+
+    <array name="bg">
+        <item>@drawable/bg_avengerinfinity</item>
+        <item>@drawable/bg_deadpool</item>
+        <item>@drawable/bg_bohemian</item>
+        <item>@drawable/bg_birdbox</item>
+        <item>@drawable/bg_venom</item>
+        <item>@drawable/bg_creed</item>
+        <item>@drawable/bg_bumblebee</item>
+        <item>@drawable/bg_aquaman</item>
+        <item>@drawable/bg_robinhood</item>
+        <item>@drawable/bg_spider</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_item1">Film</string>
+    <string name="tab_item2">Acara TV</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="tvDesc">Ikhtisar</string>
+</resources>

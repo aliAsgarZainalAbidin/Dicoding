@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SubMission3</string>
+
+    <string name="tab_item1">Movies</string>
+    <string name="tab_item2">Tv Show</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="tvDesc">Overview</string>
+    <string name="setting">Setting</string>
+    <string name="language">Language</string>
+</resources>

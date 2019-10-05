@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_item1">Film</string>
+    <string name="tab_item2">Acara TV</string>
+    <string name="tvDesc">Ikhtisar</string>
+    <string name="setting">Pengaturan</string>
+    <string name="language">Bahasa</string>
+</resources>
